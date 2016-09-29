@@ -1,13 +1,13 @@
--rwxrwxrwx;1;root;root;1228800;сент.;28;14:52;file 1.2Mb
--rwxrwxrwx;1;root;root;1843200;сент.;28;14:52;file 1.8 Mb
--rwxrwxrwx;1;root;root;1048576;сент.;28;12:38;file1Mb
--rwxrwxrwx;1;root;root;0;сент.;28;12:39;Filename with    more that      one space between    words
--rwxrwxrwx;1;root;root;0;сент.;28;10:57;FileWithoutExtension
-drwxrwxrwx;2;root;root;0;сент.;28;14:48;folderWithoutSpaces
-drwxrwxrwx;2;root;root;0;сент.;28;08:24;folder with some spaces
--rwxrwxrwx;1;root;root;1603;сент.;28;11:15;Readme.md
-drwxrwxrwx;2;root;root;0;сент.;28;14:58;reports
-drwxrwxrwx;2;root;root;0;сент.;28;14:55;scripts
-drwxrwxrwx;2;root;root;0;сент.;28;08:26;Директория на русском языке
--rwxrwxrwx;1;root;root;2457600;сент.;28;14:52;файл 2.5 МБ
--rwxrwxrwx;1;root;root;0;сент.;28;10:57;Файл на русском языке
+-rw-r--r--;1;a.halaidzhy;staff;21;Sep;29;21:08;FileWithoutExtension
+-rw-r--r--;1;a.halaidzhy;staff;59;Sep;29;21:08;Filename with    more that      one space between    words
+-rwxr-xr-x;1;a.halaidzhy;staff;1603;Sep;29;20:46;Readme.md
+-rwxr-xr-x;1;a.halaidzhy;staff;1228800;Sep;29;20:46;file 1.2Mb
+-rwxr-xr-x;1;a.halaidzhy;staff;1843200;Sep;29;20:46;file 1.8 Mb
+-rwxr-xr-x;1;a.halaidzhy;staff;1048576;Sep;29;20:46;file1Mb
+drwxr-xr-x;3;a.halaidzhy;staff;102;Sep;29;21:12;folder with some spaces
+drwxr-xr-x;3;a.halaidzhy;staff;102;Sep;29;21:12;folderWithoutSpaces
+drwxr-xr-x;7;a.halaidzhy;staff;238;Sep;29;20:46;reports
+drwxr-xr-x;6;a.halaidzhy;staff;204;Sep;29;21:03;scripts
+-rwxr-xr-x;1;a.halaidzhy;staff;2457600;Sep;29;20:46;файл 2.5 МБ
+-rw-r--r--;1;a.halaidzhy;staff;40;Sep;29;21:15;Файл на русском языке
+drwxr-xr-x;3;a.halaidzhy;staff;102;Sep;29;21:15;Директория на русском языке

@@ -11,4 +11,4 @@ while (<>) {
 	push @arr, [@F];
 }
 
-#p \@arr;
+p @arr;
