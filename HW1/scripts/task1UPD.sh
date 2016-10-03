@@ -1,1 +1,1 @@
-perl -nlE '$,=";";@F=split " ",$_,9;say @F'
+perl -nlE 'next if $.==1;$,=";";@F=split " ",$_,9;say @F'
