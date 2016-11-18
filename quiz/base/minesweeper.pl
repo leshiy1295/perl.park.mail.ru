@@ -87,7 +87,7 @@ sub printField {
   }
 }
 
-die "Usage: perl minesweeper <height> <width> [<point1.x> <point1.y>[ <point2.x> <point2.y>[ ...]]]" if (@ARGV < 3);
+die "Usage: perl minesweeper <height> <width> <sensitivity> [<point1.x> <point1.y>[ <point2.x> <point2.y>[ ...]]]" if (@ARGV < 3);
 die "Wrong agruments format! All arguments should be positive integer numbers" if (grep { /[^\d]/ } @ARGV);
 my ($rows, $cols, $sensitivity, @points) = @ARGV;
 die "Rows and cols can't be equal to zero" if ($rows == 0 || $cols == 0 || $sensitivity == 0);
