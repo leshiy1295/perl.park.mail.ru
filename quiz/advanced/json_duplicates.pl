@@ -29,6 +29,8 @@ sub identical_arrays {
 
 sub identical_values {
     my ($value1, $value2) = @_;
+    return !defined($value2) unless defined($value1);
+    return !defined($value1) unless defined($value2);
     return 1 if $value1 == $value2;
     return identical_arrays($value1, $value2) || identical_objects($value1, $value2);
 }
